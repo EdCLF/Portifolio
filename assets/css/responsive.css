@@ -88,6 +88,7 @@
     .about__title{
         font-size: 22px;
         line-height: 26px;
+        margin-left: 10px;
     }
     .about__paragraph {
         font-size: 14px;
@@ -96,9 +97,11 @@
         padding-right: 0;
         text-align: left;
         margin-left: 10px;
+        margin-right: 10px;
     }
     .skills {
         padding: 0;
+        padding-top: 40px;
     }
     .skills__line {
         justify-content: space-evenly;
@@ -189,5 +192,14 @@
     }
     .formcontato__img{
         display: none;
+    }
+    .formcontato__title{
+        font-size: 22px;
+        line-height: 25.83px;
+    }
+    .formcontato__subtext{
+        font-size: 16px;
+        line-height: 18.78px;
+        font-weight: 500;
     }
 }
