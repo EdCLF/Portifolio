@@ -1,0 +1,12 @@
+.formcontato__textarea {
+    width: 90%;
+    height: 133px;
+    outline: none;
+    background-color: var(--cinza-claro);
+    color: var(--branco);
+    resize: none;
+}
+
+.formcontato__textarea::placeholder {
+    color: var(--branco);
+}

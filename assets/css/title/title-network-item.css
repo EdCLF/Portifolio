@@ -1,0 +1,10 @@
+.title__network__item {
+    padding-right: 2rem;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.title__network__item a:hover {
+    text-decoration: underline;
+}

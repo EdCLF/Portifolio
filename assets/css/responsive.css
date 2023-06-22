@@ -1,0 +1,42 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .all {
+        padding: 1rem 2rem;
+    }
+    .cabecalho {
+        justify-content: space-between;
+    }
+    .menu__list__item__contato {
+        display: block;
+    }
+    .menu__list {
+        display: none;
+    }
+    .title__bio {
+        font-size: 22px;
+        line-height: 25.83px;
+    }
+    .title__subsection {
+        font-size: 16px;
+    }
+    .title__profile {
+        height: 146px;
+        width: 146px;
+    }
+    .about__title {
+        font-size: 22px;
+    }
+    .about__paragraph {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .experiencie__box {
+        flex-direction: column;
+    }
+    .formcontato__img{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    
+}

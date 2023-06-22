@@ -1,0 +1,7 @@
+.experiencie__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1136px;
+    height: 406px;
+}

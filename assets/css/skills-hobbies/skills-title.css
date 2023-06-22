@@ -1,0 +1,15 @@
+.skills__title {
+    font-weight: 700;
+    font-size: 2.25rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: var(--beje);
+}
+
+.hobbies__title {
+    font-weight: 700;
+    font-size: 2.25rem;
+    text-align: center;
+    margin-bottom: 2.5rem;
+    color: var(--beje);
+}

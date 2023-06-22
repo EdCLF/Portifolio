@@ -1,0 +1,8 @@
+.skills {
+   padding: 1rem 0 3rem;
+   background-image: linear-gradient(var(--cinza-medio),var(--cinza-escuro));
+}
+
+.hobbies {
+   padding: 1rem 0 3rem;
+}

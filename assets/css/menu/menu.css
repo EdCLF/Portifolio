@@ -1,0 +1,21 @@
+.menu {
+    align-items: center;
+    /* display: flex; */
+    justify-content: center;
+}
+
+.star {
+    background-image: url(../../img/vector.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24px;
+    width: 24px;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

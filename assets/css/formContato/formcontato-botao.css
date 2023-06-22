@@ -1,0 +1,20 @@
+.formcontato__botao {
+    width: 165px;
+    height: 51px;
+    margin-top: 5px;
+    background-color: var(--rosa);
+    border: 1px solid var(--rosa);
+    color: var(--branco);
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.formcontato__botao:hover {
+    color: var(--beje);
+    background-color: var(--cinza_escuro);
+    transition-duration: 0.4s;
+}

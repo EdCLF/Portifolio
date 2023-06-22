@@ -1,0 +1,19 @@
+.academic__courses__item__img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 286px;
+    width: 368px;
+}
+
+.courses--alura {
+    background-image: url(../../img/alura.jpg);
+}
+
+.courses--dio {
+    background-image: url(../../img/dio.jpg);
+}
+
+.courses--junior {
+    background-image: url(../../img/Junior_Achievement.jpg);
+}

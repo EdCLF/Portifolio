@@ -1,0 +1,9 @@
+.about__title{
+    /* padding-bottom: 2rem;
+    padding-right: 5rem;
+    padding-left: 2.18rem; */
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: var(--beje);
+}

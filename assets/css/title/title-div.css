@@ -1,0 +1,7 @@
+.title__div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 1136px;
+        height: 368px;
+}

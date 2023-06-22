@@ -1,0 +1,11 @@
+.about__paragraph{
+    text-align: justify;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-right: 23%;
+    /* padding-left: 2.18rem; */
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--branco);
+}

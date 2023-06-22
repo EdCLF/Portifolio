@@ -1,0 +1,25 @@
+.skills__box {
+    width: 176px;
+    height: 174px;
+    border: 1px solid var(--cinza-claro);
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.hobbies__box {
+    width: 176px;
+    height: 174px;
+    border: 1px solid var(--cinza-claro);
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.skills__box:hover {
+    box-shadow: 0.15rem 0.15rem 0.75rem 0.75rem var(--beje) ;
+    transition: 0.4s;
+}
+
+.hobbies__box:hover {
+    box-shadow: 0.15rem 0.15rem 0.75rem 0.75rem var(--beje) ;
+    transition: 0.4s;
+}

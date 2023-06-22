@@ -1,0 +1,8 @@
+.about__container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    max-width: 1136px;
+    height: 255px;
+    margin-bottom: 64px;
+}

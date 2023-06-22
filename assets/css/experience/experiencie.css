@@ -1,0 +1,8 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0 6rem;
+    justify-content: center;
+    background-image: linear-gradient(var(--cinza-medio),var(--cinza-escuro));
+}
